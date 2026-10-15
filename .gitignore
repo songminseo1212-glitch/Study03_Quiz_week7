@@ -1,3 +1,5 @@
 # 2026-10-09 17:30 KST
-.claude/
+# .claude는 개인 설정을 빼고 커스텀 명령어만 저장소에 올림
+.claude/*
+!.claude/commands/
 .superpowers/
